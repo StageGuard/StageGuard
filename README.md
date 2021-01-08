@@ -6,7 +6,7 @@ Addicted to [Kotlin](https://kotlinlang.org/) and learning it!
 
 Love beautiful UI!
 
-Don't like playing games except [osu!](https://osu.ppy.sh/home) or other music games.
+Like playing [osu!](https://osu.ppy.sh/home), [cytoid](https://cytoid.io/), [phigros](https://pigeon-games.com/phigros) and other rhythm games.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=StageGuard.StageGuard)
 
