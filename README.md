@@ -6,8 +6,6 @@ Familiar with [Kotlin](http://kotlinlang.org) and Java, learning Python and [Rus
 
 Like playing [osu!](https://osu.ppy.sh/home) and other rhythm games.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=StageGuard.StageGuard)
-
 
 ## Stats
 
