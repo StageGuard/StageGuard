@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm StageGuard。
+I'm StageGuard.
 
 Familiar with [Kotlin](http://kotlinlang.org), Java and JavaScript, learning Python, [Rust](https://www.rust-lang.org) and CSharp.
 
