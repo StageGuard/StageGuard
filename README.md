@@ -1,4 +1,4 @@
-<img align="right" height="400" src="598906.png">
+<img align="right" height="410" src="598906.png">
 
 ## Hi there 👋
 
@@ -9,3 +9,10 @@ Familiar with [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?&logo
 Like playing [<img height="25" src="https://github.com/ppy/osu/blob/master/assets/lazer.png"> osu!](https://osu.ppy.sh/home) and other rhythm games.
 
 **My daughter here 👉**
+
+### Favorite songs
+
+* [Camellia - Tojita Sekai](https://open.spotify.com/track/5PATArLHBHwPAoUCpIbzwV)
+* [Camellia, Akira Complex – Reality Distortion](https://open.spotify.com/track/7vbAg4JMEsvXSnQQ8RzDzn)
+* [Camellia, Hatsune Miku - 大地の閾を探して -Looking for Edge of Ground-](https://open.spotify.com/track/0T2e81s4q6HPJ6yvASXDd7)
+* [Camellia - Feelin Sky (Camellia's "200step" Self-remix)](https://cametek.jp/summary01/)
